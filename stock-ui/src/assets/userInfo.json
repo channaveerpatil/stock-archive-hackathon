@@ -1,0 +1,14 @@
+{
+    "userId": "channaveerpatil",
+    "firstName": "Channaveer",
+    "lastName": "patil",
+    "acountNo": "4455667788",
+    "accountType": "saving",
+    "balanceAmount": "5000",
+    "phoneNumber": "408-1234567",
+    "emailAddress": "channaveer.mpatil@gmail.com",
+    "payeeList" : [ "John", "Steve", "Smith" ] 
+
+        
+    
+  }
